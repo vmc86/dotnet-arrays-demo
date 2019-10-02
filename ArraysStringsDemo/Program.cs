@@ -36,8 +36,6 @@ namespace ArraysStringsDemo
                 Console.WriteLine();
             }
 
-
-
             // String s1 = new String("Hello");
         }
     }
